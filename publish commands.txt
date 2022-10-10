@@ -1,0 +1,2 @@
+poetry export -f requirements.txt > requirements.txt
+func azure functionapp publish ecgai-drawing-azure-httpfunction
